@@ -787,7 +787,7 @@ stop(); // Hammertime!
 
 ```
 // Magic. Do not touch.
-// 麻鸡。别碰它。
+// 麻鸡。勿动。
 ```
 
 ```
@@ -847,7 +847,7 @@ long long ago; /* in a galaxy far far away */
 // This code sucks, you know it and I know it.  
 // Move on and call me an idiot later.
 // 你我都知道这代码很烂
-// 但之后你就把我当傻瓜看好了
+// 先不要骂我2B了，请先继续往下看 
 ```
 
 ```
@@ -857,7 +857,7 @@ long long ago; /* in a galaxy far far away */
 
 ```
 // If this comment is removed the program will blow up 
-// 如果删了此处代码程序就炸了
+// 如果删了此处注释程序就炸了
 ```
 
 ```
@@ -879,7 +879,7 @@ long long ago; /* in a galaxy far far away */
 
 ```
 // I will give you two of my seventy-two virgins if you can fix this.
-// 如果你能把这个问题修正了，我会送你两个七十二岁的处女。
+// 要是你能修正这个问题的话，我会在我的七十二个处女中挑两个送你
 ```
 
 ```
